@@ -1,0 +1,25 @@
+html, body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+.female { 
+    color: blue;
+}
+.male { 
+    color: red;
+}
+.rigg-defarge { 
+    font-style: italic;
+}
+.brooke-carton { 
+    font-weight: bold;
+}
+#middlemarch { 
+    list-style-type: lower-roman;
+    margin-left: 5em;
+}
+#middlemarch li {
+    margin-bottom: 1em;
+}
+#twocities {
+    list-style-type: lower-alpha;
+}
